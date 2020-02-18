@@ -1,0 +1,14 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
+.accountbg {
+  background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/mochaGrunge.png);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+}
+
+
